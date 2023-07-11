@@ -1,0 +1,8 @@
+import java.io.*;
+import java.util.*;
+class UserMainCode
+{
+  public int lastDigitof(int input1){
+    return (Math.abs(iput1%10));
+    }
+  }
